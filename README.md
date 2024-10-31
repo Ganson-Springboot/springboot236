@@ -8,7 +8,6 @@
 
 
 # springboot236基于springboot在线课程管理系统的设计与实现
-# 0235springboot基于springboot在线课程管理系统的设计与实现
 
 # 5.系统实现
 
